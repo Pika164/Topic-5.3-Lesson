@@ -43,7 +43,7 @@
             Console.WriteLine("Press ENTER to continue");
             Console.ReadLine();
             Console.Clear();
-            //End of Task 1 with && and start of Task 2 with &&
+            //End of Task 1 with && and start of Task 2 with && thingy
         }
     }
 }
